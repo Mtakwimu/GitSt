@@ -1,0 +1,2 @@
+# GitSt
+exercise of github
